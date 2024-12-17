@@ -81,7 +81,7 @@ Projeto criado como parte dos cursos da [Alura](https://www.alura.com.br/). Dese
 
 ## 🥁 Experimente Agora!
 
-🔗 Clique aqui para acessar o projeto online (se hospedado no GitHub Pages).
+🔗 [Clique aqui](https://alura-midi-beta-teal.vercel.app/) para acessar o projeto online.
 
 ----------
 
