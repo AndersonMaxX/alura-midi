@@ -75,7 +75,7 @@ Alura-MIDI/
 
 ## 🖋️ Autor
 
-Projeto criado como parte dos cursos da [Alura](https://www.alura.com.br/). Desenvolvido com foco em aprendizado e diversão! 😎
+Projeto criado como parte dos cursos da [Alura](https://www.alura.com.br/). Desenvolvido com minha contribuição no desenvolvimento do JavaScript! 🚀 😎
 
 ----------
 
